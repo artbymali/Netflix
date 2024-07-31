@@ -368,7 +368,8 @@ menu {
 }
 
 .answer {
-  max-height: 0;
+  /* max-height: 0; */
+  height: 100vh;
   overflow: hidden;
   transition: max-height 0.3s ease;
 }
